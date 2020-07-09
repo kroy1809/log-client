@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c3fa8a0-77c2-4817-89b9-60e56e10d27e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/logger/LogClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logger/LoggerImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logger/Process.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_client.iws" beforeDir="false" afterPath="$PROJECT_DIR$/log_client.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -50,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594106459594</updated>
-      <workItem from="1594106461815" duration="2199000" />
+      <workItem from="1594106461815" duration="2830000" />
     </task>
     <servers />
   </component>
@@ -63,6 +66,10 @@
     </state>
     <state x="336" y="23" width="1024" height="821" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1594271337778" />
     <state x="-1472" y="105" key="#Project_Structure/0.23.1440.877/-1920.23.1920.1001@-1920.23.1920.1001" timestamp="1594106472797" />
+    <state x="533" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1594272059516">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="533" y="156" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821@0.23.1440.821" timestamp="1594272059516" />
     <state x="408" y="176" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594251591924">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
