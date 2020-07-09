@@ -1,15 +1,12 @@
 package logger;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class LoggerImplementation implements LogClient{
-    private final Map<String, Process> processes;
+    private final TreeMap<String, Process> processes;
 
     public LoggerImplementation(List<Process> processes) {
-        this.processes = new HashMap<>();
+        this.processes = new TreeMap<>();
     }
 
     @Override
@@ -24,6 +21,10 @@ public class LoggerImplementation implements LogClient{
 
     @Override
     public void poll() {
-
+        final Process process = processes.firstEntry().getValue();
+        if (process.getEndTime()!=-1) {
+            System.out.println(process.getId()+" started at "+process.getStartTime()+" and ended at "+process.getEndTime());
+            processes.remove(process.getId());
+        }
     }
 }

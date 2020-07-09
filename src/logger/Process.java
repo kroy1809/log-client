@@ -14,6 +14,14 @@ public class Process {
         this.endTime = endTime;
     }
 
+    public long getStartTime() {
+        return startTime;
+    }
+
+    public String getId() {
+        return id;
+    }
+
     public long getEndTime() {
         return endTime;
     }
