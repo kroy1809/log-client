@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c3fa8a0-77c2-4817-89b9-60e56e10d27e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/logger/LogClient.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eLgo9zxVpLkXakbDrTLzQVFRx7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c3fa8a0-77c2-4817-89b9-60e56e10d27e" name="Default Changelist" comment="" />
+      <created>1594106459594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594106459594</updated>
+      <workItem from="1594106461815" duration="2199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="23" width="1024" height="821" key="#Project_Structure" timestamp="1594271337778">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="336" y="23" width="1024" height="821" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1594271337778" />
+    <state x="-1472" y="105" key="#Project_Structure/0.23.1440.877/-1920.23.1920.1001@-1920.23.1920.1001" timestamp="1594106472797" />
+    <state x="408" y="176" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594251591924">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="408" y="176" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.821@0.23.1440.821" timestamp="1594251591924" />
+  </component>
+</project>
