@@ -10,5 +10,12 @@ public class Process {
         this.startTime = startTime;
     }
 
+    public void setEndTime(long endTime) {
+        this.endTime = endTime;
+    }
+
+    public long getEndTime() {
+        return endTime;
+    }
 
 }
