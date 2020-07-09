@@ -8,6 +8,7 @@ public class Process {
     public Process(final String id, final long startTime) {
         this.id = id;
         this.startTime = startTime;
+        endTime = -1;
     }
 
     public void setEndTime(long endTime) {
